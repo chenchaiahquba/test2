@@ -1,1 +1,15 @@
-# test2
+
+
+
+
+
+
+
+
+
+Data Encapsulation
+Data Abstraction
+Polymorphism
+Inheritance
+
+
