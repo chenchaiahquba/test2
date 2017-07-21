@@ -1,10 +1,12 @@
 
+#!/usr/bin/ruby
 
-class Customer
-   @@no_of_customers = 0
-   def initialize(id, name, addr)
-      @cust_id = id
-      @cust_name = name
-      @cust_addr = addr
+class Sample
+   def hello
+      puts "Hello Ruby!"
    end
 end
+
+# Now using above class to create objects
+object = Sample. new
+object.hello
